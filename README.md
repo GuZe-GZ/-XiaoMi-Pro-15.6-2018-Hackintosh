@@ -8,4 +8,5 @@ Hard Disk	Samsung NVMe SSD Controller PM961 /聽
 Integrated Graphics	Intel UHD Graphics 630
 Monitor	NCP0028  LM156LF9L01 1920x1080 (15.6 inch)
 Sound Card	Realtek ALC1220(layout-id: 63000000 )
-Wireless Card	Intel Wireless-AC 9560
+无线网卡	英特尔无线-AC 9560
+引导文件获取请加QQ群：群号:686747002
