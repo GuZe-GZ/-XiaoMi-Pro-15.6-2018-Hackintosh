@@ -9,4 +9,3 @@ Integrated Graphics	Intel UHD Graphics 630
 Monitor	NCP0028  LM156LF9L01 1920x1080 (15.6 inch)
 Sound Card	Realtek ALC1220(layout-id: 63000000 )
 Wireless Card	Intel Wireless-AC 9560
-SD Card Reader	Realtek RTS5129 / RTS5250S
